@@ -35,7 +35,7 @@ A React-based movie database application that allows users to browse and search 
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Priyanshuraj21030/Movie>
 ```
 
 2. Install dependencies:
@@ -44,10 +44,11 @@ git clone <your-repository-url>
 npm install
 ```
 
-3. Rename `.env.example` to `.env` and add your TMDB API key OR Create a `.env` file in the root directory and add your TMDB API key:
+3. Rename `.env.example` to `.env` and add your TMDB API key OR Create a `.env` file in the root directory and add your 
+   TMDB API key:
 
-env
-REACT_APP_TMDB_API_KEY = your_tmdb_api_key_here
+   env
+   REACT_APP_TMDB_API_KEY = your_tmdb_api_key_here
 
 4. Start the development server:
 
